@@ -1,5 +1,12 @@
 # Module 9 Challenge: README Generator
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 ## Description
 
 - A simiple README Generator for quick and proffesional READMEs
